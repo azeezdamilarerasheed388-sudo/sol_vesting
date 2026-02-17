@@ -1,5 +1,5 @@
-/workspaces/solvest/sol_vesting/target/release/build/zmij-d2e7c679d5c103b1/build_script_build-d2e7c679d5c103b1: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zmij-1.0.21/build.rs
+/workspaces/solvest/target/release/build/zmij-d2e7c679d5c103b1/build_script_build-d2e7c679d5c103b1: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zmij-1.0.21/build.rs
 
-/workspaces/solvest/sol_vesting/target/release/build/zmij-d2e7c679d5c103b1/build_script_build-d2e7c679d5c103b1.d: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zmij-1.0.21/build.rs
+/workspaces/solvest/target/release/build/zmij-d2e7c679d5c103b1/build_script_build-d2e7c679d5c103b1.d: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zmij-1.0.21/build.rs
 
 /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zmij-1.0.21/build.rs:

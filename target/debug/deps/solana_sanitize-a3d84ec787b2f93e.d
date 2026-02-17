@@ -1,7 +1,7 @@
-/workspaces/solvest/sol_vesting/target/debug/deps/solana_sanitize-a3d84ec787b2f93e.d: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-sanitize-2.2.1/src/lib.rs
+/workspaces/solvest/target/debug/deps/solana_sanitize-a3d84ec787b2f93e.d: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-sanitize-2.2.1/src/lib.rs
 
-/workspaces/solvest/sol_vesting/target/debug/deps/libsolana_sanitize-a3d84ec787b2f93e.rlib: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-sanitize-2.2.1/src/lib.rs
+/workspaces/solvest/target/debug/deps/libsolana_sanitize-a3d84ec787b2f93e.rlib: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-sanitize-2.2.1/src/lib.rs
 
-/workspaces/solvest/sol_vesting/target/debug/deps/libsolana_sanitize-a3d84ec787b2f93e.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-sanitize-2.2.1/src/lib.rs
+/workspaces/solvest/target/debug/deps/libsolana_sanitize-a3d84ec787b2f93e.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-sanitize-2.2.1/src/lib.rs
 
 /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-sanitize-2.2.1/src/lib.rs:

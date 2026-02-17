@@ -1,8 +1,8 @@
-/workspaces/solvest/sol_vesting/target/release/deps/libanchor_lang_idl_spec-87ef7f09118c8d57.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anchor-lang-idl-spec-0.1.0/src/lib.rs
+/workspaces/solvest/target/release/deps/libanchor_lang_idl_spec-87ef7f09118c8d57.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anchor-lang-idl-spec-0.1.0/src/lib.rs
 
-/workspaces/solvest/sol_vesting/target/release/deps/libanchor_lang_idl_spec-87ef7f09118c8d57.rlib: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anchor-lang-idl-spec-0.1.0/src/lib.rs
+/workspaces/solvest/target/release/deps/libanchor_lang_idl_spec-87ef7f09118c8d57.rlib: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anchor-lang-idl-spec-0.1.0/src/lib.rs
 
-/workspaces/solvest/sol_vesting/target/release/deps/anchor_lang_idl_spec-87ef7f09118c8d57.d: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anchor-lang-idl-spec-0.1.0/src/lib.rs
+/workspaces/solvest/target/release/deps/anchor_lang_idl_spec-87ef7f09118c8d57.d: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anchor-lang-idl-spec-0.1.0/src/lib.rs
 
 /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anchor-lang-idl-spec-0.1.0/src/lib.rs:
 
