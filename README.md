@@ -276,6 +276,8 @@ Phase 2 (In Progress)
 · 🔄 User dashboard
 · 🔄 Batch upload feature
 
+https://github.com/azeezdamilarerasheed388-sudo/Vesting
+
 Phase 3 (Planned)
 
 · ⬜ Security audit
