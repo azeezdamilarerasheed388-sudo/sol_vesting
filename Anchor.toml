@@ -6,7 +6,7 @@ resolution = true
 skip-lint = false
 
 [programs.devnet]
-sol_vesting = "9XG9rnCVfEQL2Hf8rE2MX2sCoMQ9ppUPC4UDXBuKX8K3"
+sol_vesting = "A9UztnDfy5bSmpg1RUcEUMBtat45aRhv8fF5k7s1JkZ7"
 
 [registry]
 url = "https://api.apr.dev"
