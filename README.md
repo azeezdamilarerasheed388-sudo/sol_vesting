@@ -3,7 +3,7 @@
 
 **Revolutionizing Token Distribution with Transparent, On-Chain Vesting Solutions for Solana Projects**
 
-Anchor • Rust • Solana • 12 Instructions • 100% Test Coverage • Devnet Live
+Anchor • Rust • Solana • Instructions • 100% Test Coverage • Devnet Live
 
 ---
 
@@ -43,8 +43,8 @@ SolVesting brings transparent, programmable vesting to Solana where:
 
 - **Program ID**: `A9UztnDfy5bSmpg1RUcEUMBtat45aRhv8fF5k7s1JkZ7`
 - **Solana Explorer**: [View on Devnet](https://explorer.solana.com/address/A9UztnDfy5bSmpg1RUcEUMBtat45aRhv8fF5k7s1JkZ7?cluster=devnet)
-- **Frontend Repo**: [github.com/earnwithdammy/vesting-fe](https://github.com)
-- **Program Repo**: [github.com/earnwithdammy/sol_vesting](https://github.com)
+- **Frontend Repo**: [github.com/azeezdamilarerasheed388-sudo/vesting](https://github.com)
+- **Program Repo**: [github.com/azeezdamilarerasheed388-sudo/sol_vesting](https://github.com)
 
 ---
 
